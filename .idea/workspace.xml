@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26390845-69cc-47f3-a1cc-5ce8fec899d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OD03/OD031.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OD03/OD032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OD03/homework/sorting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OD03/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OD04/Homework/Candles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="26390845-69cc-47f3-a1cc-5ce8fec899d6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

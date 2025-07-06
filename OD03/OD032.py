@@ -15,3 +15,4 @@ numbers = [64, 25, 12, 22, 11]
 selection_sort(numbers)
 print(numbers)  # [11, 12, 22, 25, 64]
 
+
